@@ -1,6 +1,6 @@
 # Simple Connect Wallet Template
 
-## Created using Vite + React
+Created using Vite + React
 
 To start 
 
